@@ -6,7 +6,7 @@
  * Return: Always 0.
  */
 
-int main()
+int main(viod)
 
 {
     puts("\"Programming is like building a multilingual puzzle");
